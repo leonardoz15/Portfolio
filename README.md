@@ -1,8 +1,8 @@
-#Welcome to my Site
+# Welcome to my Site
 
-##Visit the [URL](https://www.zacharyleonardo.com/) to see the live version!
+## Visit the [URL](https://www.zacharyleonardo.com/) to see the live version!
 
-##To build locally, clone using your desired method and run the following commands within the repository:
+## To build locally, clone using your desired method and run the following commands within the repository:
 ```
 bundle exec jekyll serve
 ```
