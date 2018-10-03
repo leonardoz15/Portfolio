@@ -8,7 +8,7 @@ bundle exec jekyll serve
 ```
 Then open your browser and navigate to localhost:4000
 
-Alt-Credits:
+Credits:
 ------------
 Grayscale is a free to use, open source bootswatch theme for Jekyll Sites
 All background photos are used under public domain collected from flickr creative commons.
