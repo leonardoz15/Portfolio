@@ -260,6 +260,7 @@ a:focus {
 .download-section {
     width: 100%;
     padding: 50px 0;
+    margin-top: -100px;
     color: #fff;
     background: url(/img/interest-bg-new.jpg) no-repeat center center scroll;
     background-color: #000000;
@@ -281,7 +282,7 @@ a:focus {
     }
 
     .download-section {
-        padding: 100px 0;
+        padding: 50px 0;
     }
 
     #map {
