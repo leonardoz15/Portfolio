@@ -382,6 +382,9 @@ body {
 .avi {
   width: 270px;
   height: 280px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
   border-radius: 50%;
   text-align: center;
   margin-bottom: 25px;
@@ -394,8 +397,13 @@ body {
 .content-section {
   padding-top: 250px;
 }
-p .about {
-  margin-bottom: 10;
+.about-header {
+  font-size: x-large;
+  font-weight: bold;
+}
+.about-body {
+    font-size:medium;
+    margin-bottom: 10;
 }
 .btn-resume {
   box-sizing: content-box;
