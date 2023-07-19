@@ -403,7 +403,7 @@ body {
 }
 .about-body {
     font-size:medium;
-    margin-bottom: 10;
+    padding-bottom: 2em;
 }
 .btn-resume {
   box-sizing: content-box;
